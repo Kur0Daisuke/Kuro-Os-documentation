@@ -1,0 +1,16 @@
+{
+  "name": "kuroos_docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate-docs": "jsdoc --configure jsdoc.json --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "clean-jsdoc-theme": "^4.2.17"
+  }
+}
